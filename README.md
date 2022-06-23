@@ -12,6 +12,7 @@
 <br><br>
 - 💻 Student Interested in backend developers<br><br> 
 
+ ![99's Github Stats](https://github-readme-stats.vercel.app/api?username=Junad-Park&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rorror1)](https://solved.ac/rorror1/)
 
 
