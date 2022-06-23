@@ -13,8 +13,6 @@
 - 💻 Student Interested in backend developers<br><br> 
 
 ![99's Github Stats](https://github-readme-stats.vercel.app/api?username=Junad-Park&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rorror1)](https://solved.ac/rorror1/)
-
 
 <strong>Languages and Tools</strong><br><br>
 <code><a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" style="max-width: 100%;"></a></code>
