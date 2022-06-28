@@ -1,5 +1,5 @@
 ### Hello👋 My name is Junha and I lived in Republic of Korea.
-<a href="https://alpox.kr">
+<a href="https://junad-park.github.io/">
     <img 
         src="http://img.shields.io/badge/-Tech%20Blog-655ced?style=flat&logo=github&link=Junad-Park.github.io"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
