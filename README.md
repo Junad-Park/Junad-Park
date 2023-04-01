@@ -1,5 +1,5 @@
 ### Hello👋 My name is Junha and I lived in Republic of Korea.
-<a href="https://https://rorror1624.tistory.com/" target="_blank" >
+<a href="https://rorror1624.tistory.com/" target="_blank" >
     <img src="https://img.shields.io/badge/Tistory-black?style=flat-square&logo=Tistory&logoColor=white"/>
 </a>
 <a href="https://instagram.com/junad._.p/">
