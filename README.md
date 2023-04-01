@@ -32,7 +32,3 @@
   <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white" />
  </p>
- <hr>
-
-![99's Github Stats](https://github-readme-stats.vercel.app/api?username=Junad-Park&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-
